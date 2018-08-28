@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[vue组件-轻量级富文本wangEditor]]></title>
+    <url>%2F2018%2F05%2F02%2Fvue%E7%BB%84%E4%BB%B6-%E5%AF%8C%E6%96%87%E6%9C%AC%2F</url>
+    <content type="text"><![CDATA[使用npm安装1npm install wangeditor 直接下载https://github.com/wangfupeng1988/wangEditor/releases 引用12345HTML&lt;div id="editor"&gt; &lt;p&gt;欢迎使用 &lt;b&gt;wangEditor&lt;/b&gt; 富文本编辑器&lt;/p&gt;&lt;/div&gt; 12345JSvar E = window.wangEditor;var editor = new E('#editor'); // 或者 var editor = new E( document.getElementById('editor') )editor.create(); 组件源码]]></content>
+      <tags>
+        <tag>vue</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[canvas-tree]]></title>
+    <url>%2F2018%2F02%2F15%2Fcanvas-tree%2F</url>
+    <content type="text"><![CDATA[树]]></content>
+      <tags>
+        <tag>canvas</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[canvas]]></title>
+    <url>%2F2018%2F02%2F15%2Fcanvas%2F</url>
+    <content type="text"><![CDATA[canvas(HTML5新增标签) Canvas API（画布）是在HTML5中新增的标签用于在网页实时生成图像，并且可以操作图像内容，基本上它是一个可以用JavaScript操作的位图（bitmap）。它可以用来制作照片集或者制作简单(也不是那么简单)的动画，甚至可以进行实时视频处理和渲染。 基本用法 canvas只有width和height两个基本属性（必须设置） canvas具体内容需要js操作，即canvas API，例如：12var canvas = document.getElementById('canvas'); //获取元素IDvar ctx = canvas.getContext('2d'); //调用canvas API，一般为2d，3d则用WebGL 相关文件bodymovin.js]]></content>
+      <tags>
+        <tag>canvas</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[canvas-404]]></title>
+    <url>%2F2018%2F02%2F15%2Fcanvas-404%2F</url>
+    <content type="text"><![CDATA[页面404-canvas版]]></content>
+      <tags>
+        <tag>canvas</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[canvas-seasons]]></title>
+    <url>%2F2018%2F02%2F14%2Fcanvas-seasons%2F</url>
+    <content type="text"><![CDATA[四季]]></content>
+      <tags>
+        <tag>canvas</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[超炫的开源 JavaScript 物理引擎]]></title>
+    <url>%2F2017%2F12%2F26%2F%E8%B6%85%E7%82%AB%E7%9A%84%E5%BC%80%E6%BA%90%20JavaScript%20%E7%89%A9%E7%90%86%E5%BC%95%E6%93%8E%2F</url>
+    <content type="text"><![CDATA[Verlet-js 是一个简单的集成 Verlet 的物理引擎，基于 JavaScript 编写，作者是 SubProtocol。粒子系统、距离限制、角度限制等，Verlet-js都能支持，基于这些基础，它可以帮助你构建几乎任何你能想象到的任何东西。它的 Demo 的效果都很炫！有类似 Google Gravity 的重力场效果，还有模拟现实布料、分形树和蜘蛛网等等在线演示：http://subprotocol.com/]]></content>
+      <tags>
+        <tag>JavaScript</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[我的博客]]></title>
+    <url>%2F2017%2F12%2F18%2F%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[博客很早建立了，由于工作的忙碌，疏忽了对博客的管理，后来我觉得是时候该写些东西，该保存点东西，该分享点有用的东西了。把博客整理了一下，内容主要包括以下几个方面： 平时把一些学习的感悟、反思记录下来，让自己在工作中及时总结经验，提高工作质量和效率。 温故而知新。一方面，把实践中困难的部分放到博客里分享给大家，供大佬们交流解决。还有，平时解决后的问题记录分析，整理思路，标记要点与技术点。最后，做一些小demo，尝试一些新技术新框架。 参考交流，共同提高。通过博客，结交更多的程序猿们与大佬’膜拜。]]></content>
+      <tags>
+        <tag>log</tag>
+      </tags>
+  </entry>
+</search>
